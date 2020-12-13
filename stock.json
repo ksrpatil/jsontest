@@ -1,0 +1,12 @@
+  
+{
+	"stocks": [
+	  {"code" : "Ni", "title": "Nio", "Type": "EV", "Rating": "Bullish" },
+	  { "code": "xpv", "title": "Xpeng", "Type": "EV", "Rating": "Bullish" },
+	  { "code": "Tsl", "title": "Tesla", "Type": "EV", "Rating": "Bullish" },
+	  { "code": "App", "title": "Apple", "Type": "Technology", "Rating": "Hold" }, 
+	  { "code": "GE", "title": "General Motors", "Type": "Manufacture", "Rating": "Bearish" },
+	  { "code": "Nik", "title": "Nikola", "Type": "EV", "Rating": "Bearish" },
+	  { "code": "Dis", "title": "Disney", "Type": "Entertainment", "Rating": "Bullish" }
+	]
+  }  
